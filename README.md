@@ -59,8 +59,9 @@ Hands-on simulation of VLAN segmentation and inter-VLAN communication via trunk 
 #### FortiGate Firewall Rule Optimization
 Documented and implemented secure policies on FortiGate including threat signature updates, and VPN tunnels
 
-#### Web Security Testing Demo
-Validated 
+
+#### FortiGate Firewall Rule Optimization
+Documented and implemented secure policies on FortiGate including threat signature updates, and VPN tunnels 
 ---
 
 ### Let's Connect
@@ -70,7 +71,7 @@ Validated
 
 
 ---
-
+**
  *“Packets don’t lie : if you know how to read them, you’ll see everything.*
  
- “Every packet tells a story. The job is to know when it’s the beginning of an attack.”
+ “Every packet tells a story. The job is to know when it’s the beginning of an attack.”**
