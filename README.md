@@ -22,15 +22,31 @@ My goal? To become the kind of engineer who not only knows how to route packets,
 
 
 ---
+  ### Key Interests
 
-###  Core Competencies
+- Network Security (Routing, Switching, VPNs, ACLs, VLANs)
+- Threat Detection & Incident Response (SIEM, SOAR, Alert Triage)
+- Secure Network Architecture (Cisco ASA, Firewall Policies, DMZ Design)
+- Log Analysis & Correlation (Syslog, Splunk, Event Viewer)
+- Vulnerability Assessment & Patch Lifecycle
+- Cybersecurity Standards (ISO 27001, NIST, CIS Benchmarks)
 
-- **Security Operations**: Alert Triage | SIEM (Splunk, Chronicle) | Threat Intel | Playbook-based Response
-- **Networking**: VLANs | OSPF | EIGRP | Static & Dynamic Routing | ACLs | NAT | DHCP | DNS
-- **Firewall & VPN**: Fortinet NGFW | Cisco ASA | Palo Alto | Site-to-Site VPNs
-- **Cloud Security**: IAM, Security Groups, Azure Defender, CloudTrail
-- **Tools**: Wireshark, Nmap, Nessus, SNORT, EVE-NG, Cisco Packet Tracer
-- **Languages**: Python (for automation & log parsing), Bash, PowerShell (basic)
+##  Tools & Technologies
+
+**Networking & Infrastructure**:  
+Cisco IOS, ASA Firewalls, OSPF, EIGRP, VLANs, Trunking, NAT, DHCP, IPsec, VPN, ACLs
+
+**Security & SIEM**:  
+Splunk, Suricata, Wireshark, Snort, Nessus, Dynatrace, Fortinet, Firewall Log Analysis
+
+**Cloud & DevOps**:  
+AWS VPC, IAM, S3, Azure Security Center, Git, Jenkins, Trivy, Docker (basic)
+
+**Languages & Scripting**:  
+Python (Security Automation), Bash, PowerShell, Cisco CLI
+
+**Tools for Testing & Analysis**:  
+Burp Suite, Postman, Nmap, Event Viewer, Sysmon, OSINT Tools
 
 ---
 
@@ -43,9 +59,8 @@ Hands-on simulation of VLAN segmentation and inter-VLAN communication via trunk 
 #### FortiGate Firewall Rule Optimization
 Documented and implemented secure policies on FortiGate including threat signature updates, and VPN tunnels
 
-#### Splunk + Wireshark Log Correlation
-Analyzed syslog from endpoints and correlated with packet captures to identify lateral movement and potential data exfiltration
-
+#### Web Security Testing Demo
+  Validated OWASP Top 10 with custom test cases using Burp Suite and manual validation.
 ---
 
 ### Let's Connect
@@ -56,4 +71,5 @@ Analyzed syslog from endpoints and correlated with packet captures to identify l
 
 ---
 
-🧠 *“Security is not a product, but a process.” – Bruce Schneier*
+ *“Packets don’t lie : if you know how to read them, you’ll see everything.*
+ *“Every packet tells a story. The job is to know when it’s the beginning of an attack.”*
