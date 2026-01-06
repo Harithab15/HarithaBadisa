@@ -18,7 +18,7 @@ Missouri University of Science and Technology, USA
 
 I bridge the world of **networking and cybersecurity**  passionate about how data moves and how attackers exploit it. I enjoy configuring OSPF one day, analyzing Splunk logs the next, and automating firewall rules in between.
 
-My goal? To become the kind of engineer who not only knows how to route packets, but also how to defend them.
+My goal is to become the kind of engineer who not only knows how to route packets, but also how to defend them.
 
 
 ---
