@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Haritha Badisa 👩‍💻</h1>
+<h1 align="center">Hi, I'm Haritha Badisa </h1>
 
 <p align="center">
   <strong>Network & Cybersecurity Engineer | SOC Enthusiast | Firewall & Cloud Defender</strong><br>
