@@ -73,6 +73,6 @@ Documented and implemented secure policies on FortiGate including threat signatu
 
 ---
 
- “Packets don’t lie : if you know how to read them, you’ll see everything.
+ “Packets don’t lie : if you know how to read them, you’ll see everything."
  
- “Every packet tells a story. The job is to know when it’s the beginning of an attack.”
+ Every packet tells a story. The job is to know when it’s the beginning of an attack.
