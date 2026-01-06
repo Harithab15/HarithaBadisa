@@ -60,10 +60,7 @@ Hands-on simulation of VLAN segmentation and inter-VLAN communication via trunk 
 Documented and implemented secure policies on FortiGate including threat signature updates, and VPN tunnels
 
 
- #### Log Analysis Lab with Splunk & Event Viewer**  
-  Parsed Windows event logs and built correlation rules for account misuse and network anomalies.
-
- #### Web Security Testing Demo**  
+ #### Web Security Testing Demo 
   Validated OWASP Top 10 with custom test cases using Burp Suite and manual validation.
 
 ---
@@ -75,7 +72,7 @@ Documented and implemented secure policies on FortiGate including threat signatu
 
 
 ---
-**
- *“Packets don’t lie : if you know how to read them, you’ll see everything.*
+
+## “Packets don’t lie : if you know how to read them, you’ll see everything.
  
- “Every packet tells a story. The job is to know when it’s the beginning of an attack.”**
+ “Every packet tells a story. The job is to know when it’s the beginning of an attack.”
