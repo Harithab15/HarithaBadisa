@@ -52,7 +52,7 @@ Burp Suite, Postman, Nmap, Event Viewer, Sysmon, OSINT Tools
 
 ### Featured Projects
 
-#### 🔗 VLAN & Trunk Port Lab Simulation (Cisco Packet Tracer)
+#### VLAN & Trunk Port Lab Simulation (Cisco Packet Tracer)
 Hands-on simulation of VLAN segmentation and inter-VLAN communication via trunk ports  
 → [View Lab on GitHub](https://github.com/HarithaBadisa/Trunkports)
 
@@ -60,10 +60,10 @@ Hands-on simulation of VLAN segmentation and inter-VLAN communication via trunk 
 Documented and implemented secure policies on FortiGate including threat signature updates, and VPN tunnels
 
 
- **Log Analysis Lab with Splunk & Event Viewer**  
+ #### Log Analysis Lab with Splunk & Event Viewer**  
   Parsed Windows event logs and built correlation rules for account misuse and network anomalies.
 
-- ** Web Security Testing Demo**  
+ #### Web Security Testing Demo**  
   Validated OWASP Top 10 with custom test cases using Burp Suite and manual validation.
 
 ---
